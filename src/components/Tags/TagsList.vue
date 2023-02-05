@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import TagItem from '@/components/TagItem.vue';
+import TagItem from '@/components/Tags/TagItem.vue';
 import { mapGetters } from 'vuex';
 
 export default {

@@ -10,9 +10,9 @@
 
 <script>
 import { mapGetters } from 'vuex';
-import TagsList from '@/components/TagsList.vue';
+import TagsList from '@/components/Tags/TagsList.vue';
 import CartsList from './CartsList.vue';
-import ShowMoreBtn from '@/components/ShowMoreBtn.vue';
+import ShowMoreBtn from '@/components/Buttons/ShowMoreBtn.vue';
 
 export default {
     components: {

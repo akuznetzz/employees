@@ -48,7 +48,6 @@ export default {
     flex-grow: 1;
 }
 
-img {}
 
 span {
     /* Кнопка */

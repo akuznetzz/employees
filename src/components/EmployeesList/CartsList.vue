@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import EmployeeCart from './EmployeeCart.vue'
+import EmployeeCart from '@/components/EmployeesList/EmployeeCart.vue'
 import { mapGetters } from 'vuex';
 export default {
     components: { EmployeeCart },

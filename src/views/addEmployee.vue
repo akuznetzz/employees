@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import AddEmployee from '@/components/AddEmployee.vue'
+import AddEmployee from '@/components/AddEmployee/AddEmployee.vue'
 
 export default {
   components: { AddEmployee },

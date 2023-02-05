@@ -94,7 +94,7 @@
 
 <script>
 import { mapGetters } from 'vuex';
-import AddBtn from './AddBtn.vue';
+import AddBtn from '@/components/Buttons/AddBtn.vue';
 export default {
   components: { AddBtn },
   data() {

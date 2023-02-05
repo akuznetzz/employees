@@ -15,10 +15,10 @@
 </template>
 
 <script>
-import EmployeeSearch from '@/components/EmployeeSearch.vue';
-import EmployeeList from '@/components/EmployeeList.vue';
-import EmployeeFilter from '@/components/EmployeeFilter.vue';
-import AddBtn from '@/components/AddBtn.vue';
+import EmployeeSearch from '@/components/Search/EmployeeSearch.vue';
+import EmployeeList from '@/components//EmployeesList/EmployeeList.vue';
+import EmployeeFilter from '@/components/Filter/EmployeeFilter.vue';
+import AddBtn from '@/components/Buttons/AddBtn.vue';
 
 export default {
   components: {
