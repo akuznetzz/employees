@@ -3,13 +3,17 @@
 Work example on Vue. 
 Employees list with filters, tags and ability to add.
 
-## Dev setup
+## Project setup
+```
+npm install
+```
 
-npm install # or yarn
-npm run dev
-
-## Prod setup
-
-npm install # or yarn
-npm run build
+### Compiles and hot-reloads for development
+```
 npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
