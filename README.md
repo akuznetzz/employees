@@ -1,6 +1,6 @@
 # Employees
 
-Work example on Vue. 
+Work example on Vue2. 
 Employees list with filters, tags and ability to add.
 
 ## Project setup
